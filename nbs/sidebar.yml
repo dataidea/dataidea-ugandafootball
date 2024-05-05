@@ -18,48 +18,48 @@ website:
       - section: Python Data Analysis
         contents:
           - Python Data Analysis/outline.ipynb
-          - section: Week1
+          - section: Week1 Intro
             contents:
-              - Python Data Analysis/Week1/11_python_tutorial.ipynb
-              - Python Data Analysis/Week1/12_numpy.ipynb
-              - Python Data Analysis/Week1/13_pandas.ipynb
-          - section: Week2
+              - Python Data Analysis/Week1 Intro/11_python_tutorial.ipynb
+              - Python Data Analysis/Week1 Intro/12_numpy.ipynb
+              - Python Data Analysis/Week1 Intro/13_pandas.ipynb
+          - section: Week2 Cleaning Intro
             contents:
-              - Python Data Analysis/Week2/21_weather_data.ipynb
-          - section: Week3
+              - Python Data Analysis/Week2 Cleaning Intro/21_weather_data.ipynb
+          - section: Week3 Visualization
             contents:
-              - Python Data Analysis/Week3/31_matplotlib_refined.ipynb
-              - Python Data Analysis/Week3/32_data_exploration_and_cleaning_exercise.ipynb
-          - section: Week4
+              - Python Data Analysis/Week3 Visualization/31_matplotlib_refined.ipynb
+              - Python Data Analysis/Week3 Visualization/32_data_exploration_and_cleaning_exercise.ipynb
+          - section: Week4 ML Intro
             contents:
-              - Python Data Analysis/Week4/41_overview_of_machine_learning.ipynb
-              - Python Data Analysis/Week4/42_training_models_meaning.ipynb
-              - Python Data Analysis/Week4/43_sklearn-unsupervised-learning.ipynb
-              - Python Data Analysis/Week4/44_data_exploration_and_cleaning_exercise.ipynb
-          - section: Week5
+              - Python Data Analysis/Week4 ML Intro/41_overview_of_machine_learning.ipynb
+              - Python Data Analysis/Week4 ML Intro/42_training_models_meaning.ipynb
+              - Python Data Analysis/Week4 ML Intro/43_sklearn-unsupervised-learning.ipynb
+              - Python Data Analysis/Week4 ML Intro/44_data_exploration_and_cleaning_exercise.ipynb
+          - section: Week5 Statistics
             contents:
-              - Python Data Analysis/Week5/51_descriptive_statistics.ipynb
-              - Python Data Analysis/Week5/52_inferencial_statistics.ipynb
-              - Python Data Analysis/Week5/53_implementing_statistical_models.ipynb
-          - section: Week6
+              - Python Data Analysis/Week5 Statistics/51_descriptive_statistics.ipynb
+              - Python Data Analysis/Week5 Statistics/52_inferencial_statistics.ipynb
+              - Python Data Analysis/Week5 Statistics/53_implementing_statistical_models.ipynb
+          - section: Week6 Visualization2
             contents:
-              - Python Data Analysis/Week6/61_matplotlib.ipynb
-              - Python Data Analysis/Week6/62_seaborn_part1.ipynb
-              - Python Data Analysis/Week6/62_seaborn_part2.ipynb
-              - Python Data Analysis/Week6/63.visual_eda.ipynb
-          - section: Week7
+              - Python Data Analysis/Week6 Visualization2/61_matplotlib.ipynb
+              - Python Data Analysis/Week6 Visualization2/62_seaborn_part1.ipynb
+              - Python Data Analysis/Week6 Visualization2/62_seaborn_part2.ipynb
+              - Python Data Analysis/Week6 Visualization2/63.visual_eda.ipynb
+          - section: Week7 Preprocessing
             contents:
-              - Python Data Analysis/Week7/71_feature_selection.ipynb
-              - Python Data Analysis/Week7/72_why_scaling.ipynb
-              - Python Data Analysis/Week7/72_why_scaling_fpl.ipynb
-              - Python Data Analysis/Week7/73_normailization_and_standardization.ipynb
-              - Python Data Analysis/Week7/75_bonus.ipynb
-              - Python Data Analysis/Week7/76_handling_missing_data.ipynb
-          - section: Week8
+              - Python Data Analysis/Week7 Preprocessing/71_feature_selection.ipynb
+              - Python Data Analysis/Week7 Preprocessing/72_why_scaling.ipynb
+              - Python Data Analysis/Week7 Preprocessing/72_why_scaling_fpl.ipynb
+              - Python Data Analysis/Week7 Preprocessing/73_normailization_and_standardization.ipynb
+              - Python Data Analysis/Week7 Preprocessing/75_bonus.ipynb
+              - Python Data Analysis/Week7 Preprocessing/76_handling_missing_data.ipynb
+          - section: Week8 More ML
             contents:
-              - Python Data Analysis/Week8/80_classification_metrics.ipynb
-              - Python Data Analysis/Week8/81_regression_metrics.ipynb
-              - Python Data Analysis/Week8/83_sklearn_pipeline.ipynb
+              - Python Data Analysis/Week8 More ML/80_classification_metrics.ipynb
+              - Python Data Analysis/Week8 More ML/81_regression_metrics.ipynb
+              - Python Data Analysis/Week8 More ML/83_sklearn_pipeline.ipynb
       - section: Pytorch
         contents:
           - section: Introduction
