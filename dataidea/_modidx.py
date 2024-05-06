@@ -5,4 +5,11 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://courses.dataidea.org',
                 'git_url': 'https://github.com/dataidea/dataidea',
                 'lib_path': 'dataidea'},
-  'syms': {'dataidea.core': {'dataidea.core.foo': ('core.html#foo', 'dataidea/core.py')}, 'dataidea.datasets': {}, 'dataidea.packages': {}}}
+  'syms': { 'dataidea.datasets': {},
+            'dataidea.packages': {},
+            'dataidea.statistics': { 'dataidea.statistics.cramersV': ( 'Python Data Analysis/Week5 '
+                                                                       'Statistics/descriptive_statistics.html#cramersv',
+                                                                       'dataidea/statistics.py'),
+                                     'dataidea.statistics.cramersVCorrected': ( 'Python Data Analysis/Week5 '
+                                                                                'Statistics/descriptive_statistics.html#cramersvcorrected',
+                                                                                'dataidea/statistics.py')}}}
