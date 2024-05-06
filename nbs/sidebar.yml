@@ -60,6 +60,12 @@ website:
               - Python Data Analysis/Week8 More ML/80_classification_metrics.ipynb
               - Python Data Analysis/Week8 More ML/81_regression_metrics.ipynb
               - Python Data Analysis/Week8 More ML/83_sklearn_pipeline.ipynb
+          - section: Week9 Time Series
+            contents:
+              - Python Data Analysis/Week9 Time Series/90_introduction.ipynb
+              - Python Data Analysis/Week9 Time Series/91_analysis.ipynb
+              - Python Data Analysis/Week9 Time Series/92_forecasting.ipynb
+              - Python Data Analysis/Week9 Time Series/93_python_example.ipynb
       - section: Pytorch
         contents:
           - section: Introduction
