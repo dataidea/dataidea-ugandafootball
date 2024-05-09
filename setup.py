@@ -1,6 +1,8 @@
 from pkg_resources import parse_version
 from configparser import ConfigParser
 import setuptools, shlex
+
+
 assert parse_version(setuptools.__version__)>=parse_version('36.2')
 
 # note: all settings are in settings.ini; edit there, not here
@@ -41,6 +43,7 @@ setuptools.setup(
     url = cfg['git_url'],
     packages = setuptools.find_packages(),
     include_package_data = True,
+    package_data={'': ['datasets/*.csv']},
     install_requires = requirements,
     extras_require={ 'dev': dev_requirements },
     dependency_links = cfg.get('dep_links','').split(),
