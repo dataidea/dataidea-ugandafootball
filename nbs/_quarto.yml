@@ -22,7 +22,7 @@ website:
       - text: Home
         href: 'https://www.dataidea.org/'
       - text: About
-        href: 'https://courses.dataidea.org/about'
+        href: 'https://www.dataidea.org/#about'
       - text: Download
         menu:
         - text: Python 3 Beginner
@@ -38,7 +38,7 @@ website:
         - text: Forum
           url: 'https://chat.whatsapp.com/GuCZRyJICgO3Y7MPvDQKhi'
       - text: Contact
-        href: 'https://courses.dataidea.org/contact'
+        href: 'https://www.dataidea.org/#contact'
   sidebar:
     style: "floating"
     twitter-card:
