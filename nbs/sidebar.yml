@@ -83,7 +83,14 @@ website:
               - Pytorch/Introduction/5.autogradqs_tutorial.ipynb
               - Pytorch/Introduction/6.optimization_tutorial.ipynb
               - Pytorch/Introduction/7.saveloadrun_tutorial.ipynb
+          - section: Vision
+            contents:
+              - Pytorch/Vision/dcgan_faces_tutorial.ipynb
+              - Pytorch/Vision/fgsm_tutorial.ipynb
+              - Pytorch/Vision/spatial_transformer_tutorial.ipynb
+              - Pytorch/Vision/torchvision_finetuning_instance_segmentation.ipynb
+              - Pytorch/Vision/transfer_learning_tutorial.ipynb
+              - Pytorch/Vision/vt_tutorial.ipynb
       - section: dataidea
         contents:
           - dataidea/quickstart.ipynb
-          - dataidea/statistics.ipynb
