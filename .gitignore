@@ -1,3 +1,6 @@
+# quarto
+book/
+
 # personalized
 nbs/Pytorch/Introduction/data/
 nbs/Pytorch/Introduction/model.pth
