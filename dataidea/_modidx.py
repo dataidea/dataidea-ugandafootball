@@ -2,7 +2,7 @@
 
 d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/dataidea',
-                'doc_host': 'https://courses.dataidea.org',
+                'doc_host': 'https://ugandafootball.dataidea.org',
                 'git_url': 'https://github.com/dataidea/dataidea',
                 'lib_path': 'dataidea'},
   'syms': { 'dataidea.datasets': {},
